@@ -2,7 +2,7 @@
 This is a personal portfolio website built with HTML and CSS. It showcases my background, skills, interests, and personal projects, and includes a contact form for collaboration or job opportunities.
 
 🔗 Live Preview
-You can view the live portfolio here:(
+You can view the live portfolio here:(https://github.com/Halima-24/Hackathon/blob/main/hackathon.html)
 
 📌 Features
 About Section: A brief introduction about me and what drives my passion for tech.
@@ -15,7 +15,7 @@ Interests: Areas that excite me professionally like technology, reading novels, 
 
 Projects: Links to my key projects with short descriptions.
 
-Contact Form: A working contact form (via Formspree or another backend service).
+Contact Form: A working contact form via Formspree .
 
 Contact Details: My name, email address, and phone number for direct communication.
 
